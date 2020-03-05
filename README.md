@@ -1,6 +1,6 @@
 # Awesome DevOps
 A list of useful DevOps resources (mainly in Russian).
-Inspired by [OTUS DevOps](https://otus.ru/lessons/devops-praktiki-i-instrumenty/) course.
+Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i-instrumenty/) course.
 
 ## About DevOps
 
