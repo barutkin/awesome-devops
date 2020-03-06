@@ -33,3 +33,9 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 - [Melvin E. Conway. How Do Committees Invent?](http://www.melconway.com/Home/Committees_Paper.html) (en)
 - [Site Reliability Engineering](https://landing.google.com/sre/books/) (en)
 - [Site Reliability Engineering. Надежность и безотказность как в Google](https://www.piter.com/collection/all/product/site-reliability-engineering-nadezhnost-i-bezotkaznost-kak-v-google) (ru)
+
+## Git
+
+- [Pro Git Book](https://git-scm.com/book) (multi)
+- [Git How To](https://githowto.com) (multi)
+- [Learn Git Branching](https://learngitbranching.js.org) (multi)
