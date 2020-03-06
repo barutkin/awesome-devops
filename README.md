@@ -26,6 +26,10 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 - [Two Devs One Ops. Про DevOps и вот это вот всё](https://www.2d1o.ru) (ru)
 - [Hangops Ru. Регулярные интернет-посиделки DevOps инженеров и сочувствующих им людей](http://hangops.ru) (ru)
 
+### Interactive practice
+
+- [KodeKloud Engineer](https://engineer.kodekloud.com) (en)
+
 ## DevOps как система. Практики и методики
 
 - [Непрерывное развертывание ПО: автоматизация процессов сборки, тестирования и внедрения новых версий программ](http://www.williamspublishing.com/Books/978-5-8459-1739-3.html) (ru)
