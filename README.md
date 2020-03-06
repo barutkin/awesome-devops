@@ -4,8 +4,8 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 
 ## About DevOps
 
-- [Что такое DevOps / Александр Титов (Экспресс 42)](https://youtu.be/php6DfXXG0Y) (ru)
-- [Мифы о DevOps / Александр Титов, Иван Евтухович (Экспресс 42)](https://youtu.be/hG5Bm3dgk3o) (ru)
+- [Что такое DevOps / Александр Титов (Экспресс 42) | YouTube](https://youtu.be/php6DfXXG0Y) (ru)
+- [Мифы о DevOps / Александр Титов, Иван Евтухович (Экспресс 42) | YouTube](https://youtu.be/hG5Bm3dgk3o) (ru)
 - [What is DevOps? | Atlassian](https://www.atlassian.com/devops) (en)
 - [Алан Кей: «Компьютеры — это инструменты, музыка которых — идеи»](https://habr.com/ru/company/philtech/blog/420555/) (ru) [(en)](http://web.archive.org/web/20090228161351/http://content.scholastic.com/browse/article.jsp?id=5&print=2)
 
