@@ -60,9 +60,9 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 ## ChatOps
 
 - [Знакомство с DevOps Topologies](https://web.devopstopologies.com) (en)
-- [ChatOps at GitHub - Jesse Newland / YouTube](https://www.youtube.com/watch?v=NST3u-GjjFw) (en)
-- [Managing IT Outages With Icinga and StackStorm / YouTube](https://www.youtube.com/watch?v=DpEMqTfCuc8) (en)
-- [What is ChatOps? A guide to its evolution, adoption, and significance / Atlassian](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide) (en)
+- [ChatOps at GitHub - Jesse Newland | YouTube](https://www.youtube.com/watch?v=NST3u-GjjFw) (en)
+- [Managing IT Outages With Icinga and StackStorm | YouTube](https://www.youtube.com/watch?v=DpEMqTfCuc8) (en)
+- [What is ChatOps? A guide to its evolution, adoption, and significance | Atlassian](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide) (en)
 - [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat/) (en)
 - [Awesome ChatOps. A collection of awesome things about ChatOps](https://github.com/exAspArk/awesome-chatops) (en)
 
