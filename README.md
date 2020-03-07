@@ -2,6 +2,8 @@
 A list of useful DevOps resources (mainly in Russian).
 Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i-instrumenty/) course.
 
+[A curated list of awesome softwares for DevOps](https://github.com/awesome-soft/awesome-devops) (en)
+
 ## About DevOps
 
 - [Что такое DevOps / Александр Титов (Экспресс 42) | YouTube](https://youtu.be/php6DfXXG0Y) (ru)
@@ -56,3 +58,12 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 - [Learn Git Branching](https://learngitbranching.js.org) (multi)
 - [Git Command Explorer](https://gitexplorer.com) (en)
 - [Interactive Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) (en)
+
+## ChatOps
+
+- [Знакомство с DevOps Topologies](https://web.devopstopologies.com) (en)
+- [ChatOps at GitHub - Jesse Newland / YouTube](https://www.youtube.com/watch?v=NST3u-GjjFw) (en)
+- [Managing IT Outages With Icinga and StackStorm / YouTube](https://www.youtube.com/watch?v=DpEMqTfCuc8) (en)
+- [What is ChatOps? A guide to its evolution, adoption, and significance / Atlassian](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide) (en)
+- [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat/) (en)
+- [Awesome ChatOps. A collection of awesome things about ChatOps](https://github.com/exAspArk/awesome-chatops) (en)
