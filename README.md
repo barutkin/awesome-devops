@@ -2,8 +2,6 @@
 A list of useful DevOps resources (mainly in Russian).
 Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i-instrumenty/) course.
 
-[A curated list of awesome softwares for DevOps](https://github.com/awesome-soft/awesome-devops) (en)
-
 ## About DevOps
 
 - [Что такое DevOps / Александр Титов (Экспресс 42) | YouTube](https://youtu.be/php6DfXXG0Y) (ru)
@@ -67,3 +65,6 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 - [What is ChatOps? A guide to its evolution, adoption, and significance / Atlassian](https://www.atlassian.com/blog/software-teams/what-is-chatops-adoption-guide) (en)
 - [Is group chat making you sweat?](https://m.signalvnoise.com/is-group-chat-making-you-sweat/) (en)
 - [Awesome ChatOps. A collection of awesome things about ChatOps](https://github.com/exAspArk/awesome-chatops) (en)
+
+
+[A curated list of awesome softwares for DevOps](https://github.com/awesome-soft/awesome-devops) (en)
