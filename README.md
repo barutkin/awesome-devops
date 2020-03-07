@@ -40,6 +40,19 @@ Inspired by [OTUS / Express 42 DevOps](https://otus.ru/lessons/devops-praktiki-i
 
 ## Git
 
+- [Система управления версиями](r://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%83%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D1%8F%D0%BC%D0%B8) (ru) ([en](https://en.wikipedia.org/wiki/Version_control))
 - [Pro Git Book](https://git-scm.com/book) (multi)
 - [Git How To](https://githowto.com) (multi)
+
+### Branching
+
+- [Удачная модель ветвления для Git](https://habr.com/ru/post/106912/) (ru) ([en original by Vincent Driessen with 2020-03-05 note](https://nvie.com/posts/a-successful-git-branching-model/))
+- [Git-flow](https://github.com/nvie/gitflow) (en)
+- [Trunk Based Development](https://trunkbaseddevelopment.com) (en)
+- [GitHub flow](https://guides.github.com/introduction/flow/) (en)
+
+### Interactive resources
+
 - [Learn Git Branching](https://learngitbranching.js.org) (multi)
+- [Git Command Explorer](https://gitexplorer.com) (en)
+- [Interactive Git Cheatsheet](https://ndpsoftware.com/git-cheatsheet.html) (en)
